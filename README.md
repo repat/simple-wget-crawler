@@ -12,7 +12,6 @@ $ ./simple-wget-crawler.sh files.txt
 ```
 
 ## Contact
-#### Developer/Company
 * Homepage: http://repat.de
 * e-mail: repat@repat.de
 * Twitter: [@repat123](https://twitter.com/repat123 "repat123 on twitter")
